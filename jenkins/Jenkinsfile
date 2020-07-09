@@ -1,0 +1,4 @@
+node("linux")
+{
+    println "this is jenkins pipeline"
+}
